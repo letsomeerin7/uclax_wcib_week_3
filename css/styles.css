@@ -1,0 +1,73 @@
+body {
+  font-family: georgia, serif;
+  background: url("../images/chocolate-bar-bkg.jpg");
+  background-repeat: repeat-y;
+  background-size: cover; }
+
+html {
+  font-size: 10px; }
+
+h1 {
+  width: 750px;
+  padding: 25px;
+  border: 7px;
+  border-style: double;
+  border-color: #ab0452;
+  font-size: 4em;
+  color: #ab0452;
+  background-color: #ffb500; }
+
+h2 {
+  font-size: 3em;
+  color: #ab0452; }
+
+p {
+  font-size: 2em;
+  line-height: 1.5;
+  color: #ab0452;
+  background-color: #ffb500;
+  padding: 15px;
+  border: 7px;
+  border-style: dotted;
+  border-color: #ab0452;
+  width: 750px;
+  height: auto; }
+
+ul, ol {
+  font-size: 2em;
+  line-height: 1.7;
+  color: #ab0452; }
+
+article {
+  background-color: #ffb500;
+  margin: 10px;
+  padding: 15px;
+  border: 5px;
+  border-style: double;
+  border-color: #ab0452; }
+
+section {
+  display: flex;
+  width: auto;
+  flex-wrap: column;
+  clear: right; }
+
+.one {
+  display: flex;
+  width: 1000px;
+  flex-wrap: wrap;
+  justify-content: center; }
+
+.two {
+  float: right;
+  background-color: #ffb500;
+  width: 350px;
+  height: 480px;
+  padding: 15px;
+  border: 15px;
+  border-style: dotted;
+  border-color: #ab0452;
+  margin-right: 10px; }
+
+img {
+  width: 100%; }
