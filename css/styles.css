@@ -27,8 +27,8 @@ p {
   color: #ab0452;
   background-color: #ffb500;
   padding: 15px;
-  border: 7px;
-  border-style: dotted;
+  border: 5px;
+  border-style: double;
   border-color: #ab0452;
   width: 750px;
   height: auto; }
