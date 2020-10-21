@@ -15,7 +15,7 @@ h1 {
   border-color: #ab0452;
   font-size: 4.2em;
   color: #ab0452;
-  background-color: #ffb500;
+  background-color: #f99ac6;
   text-align: center; }
 
 h2 {
@@ -27,7 +27,7 @@ p {
   line-height: 1.5;
   text-align: center;
   color: #ab0452;
-  background-color: #ffb500;
+  background-color: #f99ac6;
   opacity: 80%;
   padding: 15px;
   border: 5px;
@@ -45,7 +45,7 @@ ul, ol {
   color: #ab0452; }
 
 article {
-  background-color: #ffb500;
+  background-color: #f99ac6;
   opacity: 80%;
   margin: 10px;
   padding: 15px;
@@ -67,7 +67,7 @@ section {
 
 .two {
   float: right;
-  background-color: #ffb500;
+  background-color: #f99ac6;
   width: 350px;
   height: 480px;
   padding: 15px;
