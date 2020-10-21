@@ -13,9 +13,10 @@ h1 {
 	border: 7px;
 	border-style: double;
 	border-color: rgb(171, 4, 82);
-	font-size: 4em;
+	font-size: 4.2em;
 	color: rgb(171, 4, 82);
 	background-color: rgb(255, 181, 0);
+	text-align: center;
 }
 h2 {
 	font-size: 3em;
@@ -24,14 +25,19 @@ h2 {
 p {
 	font-size: 2em;
 	line-height: 1.5;
+	text-align: center;
 	color: rgb(171, 4, 82);
 	background-color: rgb(255, 181, 0);
+	opacity: 80%;
 	padding: 15px;
 	border: 5px;
 	border-style: double;
 	border-color: rgb(171, 4, 82);
 	width: 750px;
 	height: auto;
+}
+a {
+	color: rgb(20, 134, 140);
 }
 ul, ol {
 	font-size: 2em;
@@ -40,6 +46,7 @@ ul, ol {
 }
 article {
 	background-color: rgb(255, 181, 0);
+	opacity: 80%;
 	margin: 10px;
 	padding: 15px;
 	border: 5px;
@@ -68,6 +75,7 @@ section {
 	border-style: dotted;
 	border-color: rgb(171, 4, 82);
 	margin-right: 10px;
+	margin-top: 50px;
 }
 img {
 	width: 100%;

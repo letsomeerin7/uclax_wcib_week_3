@@ -13,9 +13,10 @@ h1 {
   border: 7px;
   border-style: double;
   border-color: #ab0452;
-  font-size: 4em;
+  font-size: 4.2em;
   color: #ab0452;
-  background-color: #ffb500; }
+  background-color: #ffb500;
+  text-align: center; }
 
 h2 {
   font-size: 3em;
@@ -24,14 +25,19 @@ h2 {
 p {
   font-size: 2em;
   line-height: 1.5;
+  text-align: center;
   color: #ab0452;
   background-color: #ffb500;
+  opacity: 80%;
   padding: 15px;
   border: 5px;
   border-style: double;
   border-color: #ab0452;
   width: 750px;
   height: auto; }
+
+a {
+  color: #14868c; }
 
 ul, ol {
   font-size: 2em;
@@ -40,6 +46,7 @@ ul, ol {
 
 article {
   background-color: #ffb500;
+  opacity: 80%;
   margin: 10px;
   padding: 15px;
   border: 5px;
@@ -67,7 +74,8 @@ section {
   border: 15px;
   border-style: dotted;
   border-color: #ab0452;
-  margin-right: 10px; }
+  margin-right: 10px;
+  margin-top: 50px; }
 
 img {
   width: 100%; }
